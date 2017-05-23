@@ -1,0 +1,16 @@
+{
+  "name": "chippyash/monadic-sets",
+  "description": "Creating monadic sets using enums",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Ashley Kitson",
+      "email": "ashley@zf4.biz"
+    }
+  ],
+  "require": {
+    "chippyash/monad": "~1.4.0",
+    "myclabs/php-enum": "~1.5.1"
+  }
+}
